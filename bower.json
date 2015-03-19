@@ -1,0 +1,20 @@
+{
+  "name": "react-spring",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "*",
+    "react": "*",
+    "requirejs": "*",
+    "bootstrap": "*",
+    "react-bootstrap": "*"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "react": "~0.13.1",
+    "bootstrap": "~3.3.4",
+    "mocha": "~2.2.1",
+    "bluebird": "~2.9.14",
+    "requirejs": "~2.1.16",
+    "d3": "~3.5.5"
+  }
+}

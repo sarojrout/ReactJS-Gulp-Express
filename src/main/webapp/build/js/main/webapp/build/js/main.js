@@ -1,0 +1,1 @@
+"use strict";var React=require("react"),MainContent=require("./components/core/MainContent");React.renderComponent(React.createElement(MainContent,null),document.getElementById("content"));
