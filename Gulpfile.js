@@ -2,6 +2,7 @@ var gulp = require('gulp'),
 	uglify = require('gulp-uglify'),
 	react = require('gulp-react'),
 	sourcemaps = require('gulp-sourcemaps'),
+	express=require('express'),
 	traceur = require('gulp-traceur');
 
 gulp.task('default',['compile'], function() {
