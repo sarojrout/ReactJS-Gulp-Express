@@ -14,8 +14,14 @@ git clone https://github.com/sarojrout/ReactJS-Gulp-Express.git
  
  4. Run test server.
  
- cd OnlineProgram
+ After checkout the project,
  
+ a: Go to the directory(ReactJS-Gulp-Express) as below
+
+ cd ReactJS-Gulp-Express
+
+b: And type below command
+
  gulp start
  
  5. Open in browser.
